@@ -1,9 +1,9 @@
-::-moz-selection {
+:-moz-selection {
   background-color: #dd2020;
 	color: #fff;
 }
  
-::selection {
+ :selection {
 	background-color: #dd2020;
 	color: #fff;
 }

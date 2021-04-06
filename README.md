@@ -1,8 +1,3 @@
-{
-  background-color: #dd2020;
-	color: #fff;
-}
-
 # Bienvenidos!
 
 ## Diseño para la escritura

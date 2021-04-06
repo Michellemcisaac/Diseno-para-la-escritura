@@ -6,13 +6,13 @@
 
 
 
-[<img align="center" width="200px" src="https://user-images.githubusercontent.com/81307858/113522671-8b3f7680-9570-11eb-828e-43dc2baac9ef.png" />][Website]
+[<img align="center" width="200px" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
 
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
 
 
 
-### Sonda Digital
+
 
 Para poder interactuar con el diario vamos a necesitar que presiones "Descargar aquí".Una vez descargado el PDF debes leer las instrucciones que contiene.
 

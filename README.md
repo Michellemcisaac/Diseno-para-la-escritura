@@ -1,3 +1,5 @@
+rgba(255, 255, 255, 0);
+
 # Bienvenidos!
 
 ## Diseño para la escritura

@@ -1,6 +1,7 @@
 ![Bienvenida_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/113773116-91119500-96f3-11eb-815b-2f6d684f63cd.jpg)
 
-![instrucciones_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/113774138-e39f8100-96f4-11eb-8816-8bdb878eff88.jpg)
+![instrucciones_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/113777833-a12c7300-96f9-11eb-83e2-c2c51150a46e.jpg)
+
 
 
 

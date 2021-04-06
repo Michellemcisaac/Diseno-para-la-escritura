@@ -1,8 +1,5 @@
-# Bienvenidos!
+![Bienvenida_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/113773116-91119500-96f3-11eb-815b-2f6d684f63cd.jpg)
 
-## Diseño para la escritura
-
-¡Hola! Somos un grupo de estudiantes de la Pontificia Universidad Católica de Valparaíso de las carreras de Diseño y Pedagogía. Estamos realizando una investigación para aprender más sobre los hábitos de estudios en la materia de lenguaje.
 
 ### Encuesta online 
 

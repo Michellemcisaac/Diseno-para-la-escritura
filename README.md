@@ -13,10 +13,7 @@
 
 
 
-
-Para poder interactuar con el diario vamos a necesitar que presiones "Descargar aquí".Una vez descargado el PDF debes leer las instrucciones que contiene.
-
-[<img align="center" width="200px" src="https://user-images.githubusercontent.com/81307858/113522634-43205400-9570-11eb-9368-ca2792c873ed.png" />][Descargar]
+[<img align="center"  src="https://user-images.githubusercontent.com/81307858/113779341-9246c000-96fb-11eb-9901-14e934a0b64e.jpg" />][Descargar]
 
 [Descargar]: https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255435/Sonda.interactiva.3.1.pdf
 

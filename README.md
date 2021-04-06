@@ -6,7 +6,7 @@
 
 
 
-[<img align="center" width="200px" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
+[<img align="center" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
 
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
 

@@ -1,4 +1,12 @@
-
+::-moz-selection {
+  background-color: #dd2020;
+	color: #fff;
+}
+ 
+::selection {
+	background-color: #dd2020;
+	color: #fff;
+}
 
 # Bienvenidos!
 

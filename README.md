@@ -1,3 +1,7 @@
+{
+  background-color: #dd2020;
+	color: #fff;
+}
 
 # Bienvenidos!
 

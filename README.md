@@ -1,4 +1,4 @@
-rgba(255, 255, 255, 0);
+<span style="color: green"> Some green text </span>
 
 # Bienvenidos!
 

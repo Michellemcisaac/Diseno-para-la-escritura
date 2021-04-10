@@ -7,7 +7,7 @@
 
 [<img align="center" src="https://user-images.githubusercontent.com/81307858/114277042-7131e800-99f7-11eb-8cb1-1d45982b4b13.jpg" />][Descargar]
 
-[Descargar]: https://9hfyi38uxoi.typeform.com/to/Q4tesL7f
+[Descargar]: https://accesibilidad-inclusion.github.io/validacion-conceptos//
 
 
 

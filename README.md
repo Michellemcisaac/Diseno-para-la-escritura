@@ -1,11 +1,10 @@
 ![portada web_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/114276387-64f85b80-99f4-11eb-9896-f4782ad47262.jpg)
 
-[<img align="center" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
-
+[<img align="right" width="200px" src="https://user-images.githubusercontent.com/81307858/114276775-295e9100-99f6-11eb-9dc1-ceecbaae1bdf.jpg" />][Website]
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
-
-[<img align="center"  src="https://user-images.githubusercontent.com/81307858/113779341-9246c000-96fb-11eb-9901-14e934a0b64e.jpg" />][Descargar]
-
+[<img align="left"   width="200px"src="https://user-images.githubusercontent.com/81307858/114276789-37141680-99f6-11eb-81c5-281028965d91.jpg" />][Descargar]
 [Descargar]: https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255435/Sonda.interactiva.3.1.pdf
+
+
 
 

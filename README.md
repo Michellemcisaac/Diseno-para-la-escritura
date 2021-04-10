@@ -1,9 +1,8 @@
+![portada web_Mesa de trabajo 1](https://user-images.githubusercontent.com/81307858/114276387-64f85b80-99f4-11eb-9896-f4782ad47262.jpg)
+
 [<img align="center" src="https://user-images.githubusercontent.com/81307858/113779115-367c3700-96fb-11eb-9224-0586b9a4c16a.jpg" />][Website]
 
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
-
-
-
 
 [<img align="center"  src="https://user-images.githubusercontent.com/81307858/113779341-9246c000-96fb-11eb-9901-14e934a0b64e.jpg" />][Descargar]
 

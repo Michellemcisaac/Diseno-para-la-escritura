@@ -11,5 +11,5 @@
 [Descargar]: https://9hfyi38uxoi.typeform.com/to/Q4tesL7f
 
 
-![portada web-04](https://user-images.githubusercontent.com/81307858/114282894-b4e71a80-9a14-11eb-9773-ac33b86a99ce.jpg)
+
 

@@ -11,7 +11,8 @@ body{
     max-width: 600px;
     margin: 1em auto;
     font-size: 1.5em;
-    background-image: url("../img/fondo.jpg");
+    background-image: url("../img/portada\ web_Mesa\ de\ trabajo\ 1.jpg"); 
+    background-size: 50%;
 }
 
 a.btn{
@@ -26,14 +27,21 @@ a.btn{
 
 .amarillo{
     color: black;
-    background-color: yellow;
+    background-color: rgb(161, 203, 240);
+    
 }
 
 .naranjo{
-    color: white;
-    background-color: orangered;
+    color:black;
+    background-color: rgb(161, 203, 240);
+    
 }
 
 .naranjo:hover{
-    background-color: darkorange;
+    background-color:rgb(245, 224,134);
 }
+
+.amarillo:hover{
+    background-color: rgb(245, 224,134);
+}
+

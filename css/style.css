@@ -11,8 +11,26 @@ body{
     max-width: 600px;
     margin: 1em auto;
     font-size: 1em;
-    background-image: url("../img/portada\ web_Mesa\ de\ trabajo\ 1.jpg"); 
-    background-size: 50%;
+    background-image: url("../img/fondo\ blanco_Mesa\ de\ trabajo\ 1.jpg"); 
+    background-size: 70%;
+    
+}
+
+h1{
+    color: rgb(205, 66,71) ;
+}
+
+p{
+    color: black;
+}
+
+h2{
+    color: rgb(205, 66,71) ;
+}
+
+
+h3{
+    color: rgb(205, 66,71) ;
 }
 
 a.btn{
